@@ -7,10 +7,10 @@ Welcome to Brandon! A bot that runs in your terminal!
 3. make brandon a website
 ---
 # commands
-1. **pacertest** - make brandon give u the fitnessgram pacer test lyrics. introduced in brandon 1
-2. **about** - about brandon. intrtoduced in brandon 1
-3. **version** - the version brandon is running on. seperated from the command **about** in brandon 2
-4. **help** - shows all the commands that brandon has. introduced in brandon 2 
+1. **pacertest** - make brandon give u the fitnessgram pacer test lyrics. introduced in [brandon 1](https://github.com/bytemeRAH/Brandon/releases/tag/beta)
+2. **about** - about brandon. intrtoduced in [brandon 1](https://github.com/bytemeRAH/Brandon/releases/tag/beta)
+3. **version** - the version brandon is running on. seperated from the command **about** in [brandon 2](https://github.com/bytemeRAH/Brandon/releases/tag/0.2)
+4. **help** - shows all the commands that brandon has. introduced in [brandon 2](https://github.com/bytemeRAH/Brandon/releases/tag/0.2) 
 ---
 # requirements
 - python 3 or higher
