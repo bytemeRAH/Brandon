@@ -17,15 +17,15 @@ Welcome to Brandon! A bot that runs in your terminal!
 - any Operating Sytem
 ---
 # how to run (windows)
-1. go to releases
+1. go to [releases](https://github.com/bytemeRAH/Brandon/releases)
 2. download the latest version
 3. put brandon in a folder
 4. run that folder in your terminal
 5. start using brandon by typing **"py brandon0.1.py"** or **"python brandon0.1.py"** depending on what your system uses 
-6. make sure to replace brandon0.1.py with whatever python file you have downloaded from realeases
+6. make sure to replace brandon0.1.py with whatever python file you have downloaded from [realeases](https://github.com/bytemeRAH/Brandon/releases)
 ---
 # how to run on mac, linux, etc (also works on windows)
-1. go to releases
+1. go to [releases](https://github.com/bytemeRAH/Brandon/releases)
 2. download the latest version
 3. locate the brandon python file
 4. right click the file and open it with python
