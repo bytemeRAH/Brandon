@@ -13,7 +13,7 @@ Welcome to Brandon! A bot that runs in your terminal!
 4. **help** - shows all the commands that brandon has. introduced in [brandon 2](https://github.com/bytemeRAH/Brandon/releases/tag/0.2) 
 ---
 # requirements
-- python 3 or higher
+- [python 3.13](https://www.python.org/downloads/release/python-3130/) or higher
 - any Operating Sytem
 ---
 # how to run (windows)
