@@ -2,9 +2,9 @@
 Welcome to Brandon! A bot that runs in your terminal!
 ---
 # goals
-1. intergrate gemini 3.0 into brandon
-2. make it so brandon make files
-3. make brandon a website
+- intergrate gemini 3.0 into brandon
+- make it so brandon make files
+- make brandon a website
 ---
 # commands
 1. **pacertest** - make brandon give u the fitnessgram pacer test lyrics. introduced in [brandon 1](https://github.com/bytemeRAH/Brandon/releases/tag/beta)
