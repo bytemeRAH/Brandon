@@ -15,6 +15,7 @@ Welcome to Brandon! A bot that runs in your terminal!
 # requirements
 - [python 3.13](https://www.python.org/downloads/release/python-3130/) or higher
 - any Operating Sytem
+- a terminal (ofc)
 ---
 # how to run (windows)
 1. go to [releases](https://github.com/bytemeRAH/Brandon/releases)
